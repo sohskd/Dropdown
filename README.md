@@ -1,3 +1,1 @@
-# Testing dropdown menu in css
-
-https://sohskd.github.io/Dropdown/
+A series of mini web features
